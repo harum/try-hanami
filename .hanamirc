@@ -1,0 +1,4 @@
+project=melajah
+architecture=container
+test=minitest
+template=erb
